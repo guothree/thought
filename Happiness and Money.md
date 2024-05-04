@@ -1,0 +1,2 @@
+	People always say "Money can not buy you happiness", that's what we have been being taught from the begining, i want to say children are so easy to be cheated. Here i wanne tell you MONEY can buy you happiness.
+	Even now if you ask some adults this question, they would still tell you this bullshit is right because they are coward. Someone would make a excause saying you can not tell children this fact because this is bad value even if it's true, and i want to ask why the truth is bad value, so lie can be good value? at least, do not lie to yourself.
