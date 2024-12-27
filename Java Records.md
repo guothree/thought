@@ -1,0 +1,5 @@
+    Records is one of the most important concepts introduced in recent years, it gives you a great tool to model immutable data. There is no doubt that data is the key when you design features, right data structure makes programmer implement same function with simpler code.
+    Class used to play this role before and it did well, let's talk about it's drawbacks and we can know why Records show up.
+    1. Class is designed for mutable state, it's the most obvious difference between them, it's easy to model state and hard to model data by it.
+    2. Data is more and more important in modern programming, it's the first thing when you start to design how to implement a feature, programming model should have specific concept for it.
+    3. Records is very cheap to create, so programer can have no hesitate to make one to model data in their mind. Class is relatively heavy, which always stands in the way to make right data model, and Class makes it vague to distinguish the difference between data and state.

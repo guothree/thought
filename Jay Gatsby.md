@@ -1,0 +1,11 @@
+	This is a story about A successful and honest man being destroyed by A selfish women.
+	There were three periods in Gatsby'life. 
+	First, joined the army and was promoted to be major officer stationed around Daisy'home. 
+	Second, entered high society through the identity of officer and then attracted Daisy because of misjudgement of social class. misjudgement of social class is the core of chasing after girls in short time for poor boys, all the techniques are around the point of making girls misjudge your social class with details and words. 
+	At this period, Gatsby was on the winning side, because their relationship was only lovers, he got everything and had nothing to lose. But he could not understand this advantage, cognition told him to be a role of traditionally trained provider which is unusual character in high society, What's in his mind was that he 'got' the girl by luck but not capable of providing her with matched quality of life, this deep cognition is the essence of his tragic ending.
+	this period was also the raising time. Relationship between he and Daisy ended since he was transfered to frontline because of WW2, and Daisy married Tom who is a truly high society man. if story ends here, anyone who has basic undersanding of relationship between man and women would see nothing special, just boring things happened everyday. Gatsby had a beautiful lover because of misjudgement of social class, this could be the happy ending, but cognition of being a provider and good marriage made this poor man think it's the regret of life. so after war, he tried his best to climb into high society such that he could be suitable for Daisy.
+	It was so lucky for he to be living in America with high speed of economy growth, which is unusual in humen history. He entered high society by selling hootch, His American Dream came true.
+	Third period was here. Gatsby now was a man of real high society, if he likes, there would be hundred and thousand of ways to enjoy his life. but the congnition, he was trained since borning, told him to chase after Daisy and marry her to be husband, a provider. For men in high society, like Daisy's husband Tom, providing her is not costly work, and moral of being husband can not constrained him, Tom immediately found a lover after marrring Daisy.
+	
+
+	
